@@ -1,0 +1,78 @@
+[Thu Mar 26 09:05:53 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:05:57 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:07 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:11 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:14 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:20 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:39 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:44 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:06:55 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:14:36 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:16:23 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:16:25 2015] [error_log] [client 192.168.18.8] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:16:30 2015] [error_log] [client 192.168.18.8] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:16:59 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:17:04 2015] [error_log] [client 192.168.18.44] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:20:45 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:21:17 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:24:10 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:24:55 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:26:19 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Thu Mar 26 09:27:43 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:30:42 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:32:25 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:32:50 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:33:30 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:37:10 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:37:50 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:40:53 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:40:56 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:43:09 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:43:39 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:47:51 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:49:19 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:50:00 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:50:40 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:51:28 2015] [error_log] [client 192.168.18.5] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:51:58 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:54:28 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:55:09 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 09:57:51 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 10:28:04 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:04:27 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:08:26 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:10:53 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:12:20 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:13:58 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:15:57 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:19:31 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:21:57 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 16:51:19 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 17:00:41 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Thu Mar 26 17:01:05 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.

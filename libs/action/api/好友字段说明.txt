@@ -1,0 +1,15 @@
+查找好友：
+{"result":1,"tenone_api_type":"friend\/search_friend","message":
+[{"n_id":15,"s_name":"hh","n_sex":2,"n_head":1,"n_max_checkpoint":0,"n_battle":5689,
+"n_friend":1},
+{"n_id":16,"s_name":"hp","n_sex":1,"n_head":1,"n_max_checkpoint":0,"n_battle":1586,
+"n_friend":1}]}
+n_id：查找的好友ID
+s_name： 昵称
+n_sex：性别
+n_head：头像
+n_max_checkpoint：最大关卡
+n_battle：战斗力
+n_friend：是否好友关系（1是0否）
+
+合体信息表

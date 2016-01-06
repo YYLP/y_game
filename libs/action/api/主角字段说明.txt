@@ -1,0 +1,20 @@
+
+"characterInfo":主角信息
+                character_id:主角ID
+                name：昵称
+                price_type：购买类型（1.人生果2.钻石3魂石）
+                price：购买价格
+                level：主角品阶
+                n_get：是否拥有该主角（1有0无）
+                attribute：主角详细属性（n_get=1是才有）
+                          update_id  属性ID C15 “c”品阶 “1”属性号(1攻击属性2暴击属性3血量属性) “5”当前属性等级
+                          price_type 升级消耗类型
+                          price 消耗数量
+                          value 当前属性值
+                          next_value 下一级属性值
+                wait_time 进阶等待时间
+
+public $attribute = array(
+            1 => 'n_attack_level',
+            2 => 'n_crit_level',
+            3 => 'n_hp_level'

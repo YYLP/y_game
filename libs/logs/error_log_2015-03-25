@@ -1,0 +1,293 @@
+[Wed Mar 25 09:23:53 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 09:24:03 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 09:26:57 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 09:28:34 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 10:05:53 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:05:55 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:05:58 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:06:01 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:06:03 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:06:44 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:06:48 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 10:06:51 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 13:53:16 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 13:53:26 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 15:04:02 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:08:04 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:15:28 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:16:28 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:17:46 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:37:15 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:38:47 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 15:39:18 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:02:55 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:03:34 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:05:54 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:07:01 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:08:05 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:10:45 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:14:01 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:14:34 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:15:13 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:17:40 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:22:50 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:35:19 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:38:13 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:38:52 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:39:17 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:41:46 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:42:15 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:44:05 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:44:53 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:46:05 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:48:47 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:49:14 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 16:49:22 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 16:49:33 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:49:50 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 16:50:12 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:51:16 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:53:02 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:53:49 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:54:19 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:54:38 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:55:01 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:55:23 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:56:22 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:57:01 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:57:57 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:58:24 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:59:37 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 16:59:41 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 16:59:44 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:00:09 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:01:03 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 17:01:18 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:07:56 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 17:08:02 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:08:30 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:10:32 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:19:17 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:24:49 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:27:45 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:32:59 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:33:40 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:57:29 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 17:57:35 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 17:57:39 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:00:08 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:00:12 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:04:29 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:04:32 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:05:29 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:05:35 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:07:50 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:08:56 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:12:05 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:13:50 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:20:22 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:20:39 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:20:43 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 18:22:42 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:31:57 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:33:19 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:36:05 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:36:29 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 18:37:04 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '2',s_login_info = 'a:5:{s:7:\"con_day\";i:1;s:9:\"total_day\";i:1;s:4:\"time\' at line 1
+#0 E:\php_project\y_game\libs\model\BaseModel.class.php(169): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\UserAction.class.php(148): BaseModel::update(Array, Array)
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): UserAction->exeLogin()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Wed Mar 25 19:16:32 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 19:27:36 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 19:34:54 2015] [error_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:04:29 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:07:55 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:12:14 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:15:19 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:16:16 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:16:42 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:23:26 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:24:34 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:25:25 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:29:56 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:30:36 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:31:26 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 20:32:28 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 21:42:29 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 21:43:48 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 21:46:49 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:04:41 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:05:49 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:07:16 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:08:03 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:09:02 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:10:08 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:11:04 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:12:53 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:13:51 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:15:43 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:15:47 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:16:07 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:16:32 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:16:50 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:16:54 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> "AuthAction#exeQuickRegister" returned invalid value.
+#0 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#1 {main}
+[Wed Mar 25 22:17:39 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:17:54 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:18:09 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:18:26 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Wed Mar 25 22:21:38 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.

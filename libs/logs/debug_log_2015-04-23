@@ -1,0 +1,33 @@
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************START***********************
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Headers:  Logging param-> Array
+(
+    [Host] => 192.168.18.31
+    [Accept] => */*
+    [Content-Length] => 0
+    [Content-Type] => application/x-www-form-urlencoded
+)
+
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php->  1 filters are defined.
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Executing filter "DefaultFilter".
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\filter\DefaultFilter.class.php-> ----- DefaultFilter is started -----
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\filter\DefaultFilter.class.php-> DefaultFilter is success.
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\filter\DefaultFilter.class.php-> ----- DefaultFilter is finished -----
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Executing action "AuthAction#exeUserLogin".
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\api\AuthAction.class.php-> requestParam:Array
+(
+    [user_id] => 
+    [session_key] => 
+    [json_request] => {"account":"yang123","password":"123456"}
+)
+
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\BaseAction.class.php-> {"account":"yang123","password":"123456"} 【E:\php_project\y_game\libs\action\BaseAction.class.php(133)】
+[Thu Apr 23 16:30:09 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\api\AuthAction.class.php-> requestJsonParam:Array
+(
+    [account] => yang123
+    [password] => 123456
+)
+
+[Thu Apr 23 16:30:10 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\api\AuthAction.class.php-> SessionKey1:
+[Thu Apr 23 16:30:10 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\action\api\AuthAction.class.php-> SessionKey2:03df9e500873857139588463d7c6bf6e
+[Thu Apr 23 16:30:10 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************FINISH***********************
+[Thu Apr 23 16:30:10 2015] [debug_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\view\JsonView.class.php-> Response json-> {"result":1,"tenone_api_type":"auth\/user_login","message":{"n_id":604,"total_day":3,"session_key":"03df9e500873857139588463d7c6bf6e"}}

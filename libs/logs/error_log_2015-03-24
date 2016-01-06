@@ -1,0 +1,2 @@
+[Tue Mar 24 09:25:24 2015] [error_log] [client 192.168.18.30] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Tue Mar 24 13:18:09 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\exception\NotFoundException.class.php-> The "PATH_INFO" is not defined.

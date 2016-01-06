@@ -1,0 +1,7 @@
+[Thu Apr 23 16:30:10 2015] [sql_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT n_id FROM regist_list where s_account = :user_account and s_password = :user_pwd
+[Thu Apr 23 16:30:10 2015] [sql_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Thu Apr 23 16:30:10 2015] [sql_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_login_info = ?,s_task_info = ? WHERE n_id = ?
+[Thu Apr 23 16:30:10 2015] [sql_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE friend_list SET n_friend_num=0 
+                               where  n_user_id=:user_id  
+[Thu Apr 23 16:30:10 2015] [sql_log] [client 192.168.18.32] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE friend_list SET n_user_num=0 
+                               where  n_friend_id=:user_id  

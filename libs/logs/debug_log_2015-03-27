@@ -1,0 +1,195 @@
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************START***********************
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Headers:  Logging param-> Array
+(
+    [Accept] => text/html, application/xhtml+xml, */*
+    [Accept-Language] => zh-CN
+    [User-Agent] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+    [Accept-Encoding] => gzip, deflate
+    [Host] => 192.168.18.31
+    [DNT] => 1
+    [Connection] => Keep-Alive
+    [Cookie] => Hm_lvt_a86c9bd71dfa966b87f6852d2c18a4eb=1413963225,1414133997
+)
+
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Executing action "GameAction#exeEndGame".
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestParam:Array
+(
+    [user_id] => 267
+    [session_key] => 
+    [json_request] => {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}}
+)
+
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}} 【E:\php_project\y_game\libs\action\BaseAction.class.php(133)】
+[Fri Mar 27 09:53:54 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestJsonParam:Array
+(
+    [scoreInfo] => Array
+        (
+            [combo] => Array
+                (
+                    [0] => 8
+                )
+
+            [award] => 19
+            [deduction] => Array
+                (
+                    [0] => 0
+                    [1] => 15
+                )
+
+            [kill] => Array
+                (
+                    [monster] => 8
+                    [boss] => 1
+                )
+
+        )
+
+    [checkpoint_id] => 12
+    [scr_length] => 0
+    [star_num] => 0
+    [diamond] => 0
+    [soul] => 0
+    [pass] => 1
+    [lose_type] => 0
+    [skill_num] => 0
+    [max_combo] => 8
+    [propArr] => Array
+        (
+        )
+
+)
+
+[Fri Mar 27 09:53:55 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey1:
+[Fri Mar 27 09:53:55 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey2:f874886322f88730c6455eaf0ae82bc4
+[Fri Mar 27 09:53:55 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************FINISH***********************
+[Fri Mar 27 09:53:55 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\view\JsonView.class.php-> Response json-> {"result":1,"tenone_api_type":"game\/end_game","message":{"0":{"id":249,"head":2,"name":"aaaaaa","sex":0,"level":0,"checkpoint":23,"battle":44561},"1":{"id":300,"head":1,"name":"d661042","sex":0,"level":0,"checkpoint":13,"battle":0},"2":{"id":267,"head":3,"name":"huangmimi","sex":0,"level":0,"checkpoint":22,"battle":60554},"unlockInfo":0,"generalInfo":[{"general_id":1,"name":"\u5510\u50e7","unlock_star":0,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":0,"active_price_type":0,"active_price":0,"start_time":1426176000,"end_time":1428854400,"n_get":0,"battle":300,"attributeInfo":[{"update_id":"1_0","price_type":2,"price":2,"value":4,"next_value":4.5,"max_level":10},{"update_id":"2_0","price_type":2,"price":2,"value":85,"next_value":80,"max_level":10}]},{"general_id":2,"name":"\u5b59\u609f\u7a7a","unlock_star":12,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":60,"active_price_type":2,"active_price":60,"start_time":1426176000,"end_time":1428854400,"n_get":0,"battle":300,"attributeInfo":[{"update_id":"1_0","price_type":2,"price":3,"value":5,"next_value":5.2,"max_level":10},{"update_id":"2_0","price_type":2,"price":3,"value":90,"next_value":84,"max_level":10}]},{"general_id":3,"name":"\u732a\u516b\u6212","unlock_star":36,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":100,"active_price_type":2,"active_price":100,"start_time":1426176000,"end_time":1428854400,"n_get":0,"battle":300,"attributeInfo":[{"update_id":"1_0","price_type":2,"price":5,"value":4,"next_value":4.4,"max_level":10},{"update_id":"2_0","price_type":2,"price":5,"value":95,"next_value":90,"max_level":10}]},{"general_id":4,"name":"\u6c99\u609f\u51c0","unlock_star":72,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":150,"active_price_type":2,"active_price":150,"start_time":1426176000,"end_time":1428854400,"n_get":0,"battle":300,"attributeInfo":[{"update_id":"1_0","price_type":2,"price":7,"value":3,"next_value":3.2,"max_level":10},{"update_id":"2_0","price_type":2,"price":7,"value":100,"next_value":95,"max_level":10}]}],"achieveInfo":[],"finish_num":0,"n_thew":1888,"n_refresh_time":null,"server_time":1427421235,"time_num":5,"session_key":"f874886322f88730c6455eaf0ae82bc4"}}
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************START***********************
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Headers:  Logging param-> Array
+(
+    [Accept] => text/html, application/xhtml+xml, */*
+    [Accept-Language] => zh-CN
+    [User-Agent] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+    [Accept-Encoding] => gzip, deflate
+    [Host] => 192.168.18.31
+    [DNT] => 1
+    [Connection] => Keep-Alive
+    [Cookie] => Hm_lvt_a86c9bd71dfa966b87f6852d2c18a4eb=1413963225,1414133997
+)
+
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Executing action "GameAction#exeEndGame".
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestParam:Array
+(
+    [user_id] => 267
+    [session_key] => 
+    [json_request] => {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}}
+)
+
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}} 【E:\php_project\y_game\libs\action\BaseAction.class.php(133)】
+[Fri Mar 27 09:55:14 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestJsonParam:Array
+(
+    [scoreInfo] => Array
+        (
+            [combo] => Array
+                (
+                    [0] => 8
+                )
+
+            [award] => 19
+            [deduction] => Array
+                (
+                    [0] => 0
+                    [1] => 15
+                )
+
+            [kill] => Array
+                (
+                    [monster] => 8
+                    [boss] => 1
+                )
+
+        )
+
+    [checkpoint_id] => 12
+    [scr_length] => 0
+    [star_num] => 0
+    [diamond] => 0
+    [soul] => 0
+    [pass] => 1
+    [lose_type] => 0
+    [skill_num] => 0
+    [max_combo] => 8
+    [propArr] => Array
+        (
+        )
+
+)
+
+[Fri Mar 27 09:55:15 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey1:
+[Fri Mar 27 09:55:15 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey2:a50e72767178cf314f6ca2c6bb334e4e
+[Fri Mar 27 09:55:15 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************FINISH***********************
+[Fri Mar 27 09:55:15 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\view\JsonView.class.php-> Response json-> {"result":1,"tenone_api_type":"game\/end_game","message":{"0":{"id":249,"head":2,"name":"aaaaaa","sex":0,"level":0,"checkpoint":23,"battle":44561},"1":{"id":300,"head":1,"name":"d661042","sex":0,"level":0,"checkpoint":13,"battle":0},"2":{"id":267,"head":3,"name":"huangmimi","sex":0,"level":0,"checkpoint":22,"battle":60554},"unlockInfo":0,"generalInfo":[{"general_id":1,"name":"\u5510\u50e7","unlock_star":0,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":0,"active_price_type":0,"active_price":0,"start_time":1426176000,"end_time":1428854400,"n_get":1,"battle":2300,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":9,"next_value":9,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":35,"next_value":35,"max_level":10}]},{"general_id":2,"name":"\u5b59\u609f\u7a7a","unlock_star":12,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":60,"active_price_type":2,"active_price":60,"start_time":1426176000,"end_time":1428854400,"n_get":1,"battle":2300,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":7,"next_value":7,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":30,"next_value":30,"max_level":10}]},{"general_id":3,"name":"\u732a\u516b\u6212","unlock_star":36,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":100,"active_price_type":2,"active_price":100,"start_time":1426176000,"end_time":1428854400,"n_get":1,"battle":1400,"attributeInfo":[{"update_id":"1_1","price_type":2,"price":7,"value":4.4,"next_value":4.8,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":45,"next_value":45,"max_level":10}]},{"general_id":4,"name":"\u6c99\u609f\u51c0","unlock_star":72,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":150,"active_price_type":2,"active_price":150,"start_time":1426176000,"end_time":1428854400,"n_get":1,"battle":2300,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":5,"next_value":5,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":50,"next_value":50,"max_level":10}]}],"achieveInfo":[],"finish_num":1,"n_thew":1887,"n_refresh_time":null,"server_time":1427421315,"time_num":5,"session_key":"a50e72767178cf314f6ca2c6bb334e4e"}}
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************START***********************
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Headers:  Logging param-> Array
+(
+    [Accept] => text/html, application/xhtml+xml, */*
+    [Accept-Language] => zh-CN
+    [User-Agent] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+    [Accept-Encoding] => gzip, deflate
+    [Host] => 192.168.18.31
+    [DNT] => 1
+    [Connection] => Keep-Alive
+    [Cookie] => Hm_lvt_a86c9bd71dfa966b87f6852d2c18a4eb=1413963225,1414133997
+)
+
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> Executing action "GameAction#exeEndGame".
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestParam:Array
+(
+    [user_id] => 267
+    [session_key] => 
+    [json_request] => {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}}
+)
+
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\BaseAction.class.php-> {"scoreInfo":{"combo":[8],"award":19,"deduction":[0,15],"kill":{"monster":8,"boss":1}},"checkpoint_id":12,"scr_length":0.000000,"star_num":0,"diamond":0,"soul":0,"pass":1,"lose_type":0,"skill_num":0,"max_combo":8,"propArr":{}} 【E:\php_project\y_game\libs\action\BaseAction.class.php(133)】
+[Fri Mar 27 09:56:04 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> requestJsonParam:Array
+(
+    [scoreInfo] => Array
+        (
+            [combo] => Array
+                (
+                    [0] => 8
+                )
+
+            [award] => 19
+            [deduction] => Array
+                (
+                    [0] => 0
+                    [1] => 15
+                )
+
+            [kill] => Array
+                (
+                    [monster] => 8
+                    [boss] => 1
+                )
+
+        )
+
+    [checkpoint_id] => 12
+    [scr_length] => 0
+    [star_num] => 0
+    [diamond] => 0
+    [soul] => 0
+    [pass] => 1
+    [lose_type] => 0
+    [skill_num] => 0
+    [max_combo] => 8
+    [propArr] => Array
+        (
+        )
+
+)
+
+[Fri Mar 27 09:56:05 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey1:
+[Fri Mar 27 09:56:05 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\action\api\GameAction.class.php-> SessionKey2:c7df517ac23615191605a2bf22dba739
+[Fri Mar 27 09:56:05 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> ********************FINISH***********************
+[Fri Mar 27 09:56:05 2015] [debug_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\view\JsonView.class.php-> Response json-> {"result":1,"tenone_api_type":"game\/end_game","message":{"0":{"id":249,"head":2,"name":"aaaaaa","sex":0,"level":0,"checkpoint":23,"battle":44561},"1":{"id":300,"head":1,"name":"d661042","sex":0,"level":0,"checkpoint":13,"battle":0},"2":{"id":267,"head":3,"name":"huangmimi","sex":0,"level":0,"checkpoint":22,"battle":60554},"unlockInfo":0,"generalInfo":[{"general_id":1,"name":"\u5510\u50e7","unlock_star":0,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":0,"active_price_type":0,"active_price":0,"start_time":1426176000,"end_time":1428854400,"n_get":1,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":9,"next_value":9,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":35,"next_value":35,"max_level":10}]},{"general_id":2,"name":"\u5b59\u609f\u7a7a","unlock_star":12,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":60,"active_price_type":2,"active_price":60,"start_time":1426176000,"end_time":1428854400,"n_get":1,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":7,"next_value":7,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":30,"next_value":30,"max_level":10}]},{"general_id":3,"name":"\u732a\u516b\u6212","unlock_star":36,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":100,"active_price_type":2,"active_price":100,"start_time":1426176000,"end_time":1428854400,"n_get":1,"attributeInfo":[{"update_id":"1_1","price_type":2,"price":7,"value":4.4,"next_value":4.8,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":45,"next_value":45,"max_level":10}]},{"general_id":4,"name":"\u6c99\u609f\u51c0","unlock_star":72,"unlock_type":1,"unlock_price":0,"buy_type":2,"buy_price":150,"active_price_type":2,"active_price":150,"start_time":1426176000,"end_time":1428854400,"n_get":1,"attributeInfo":[{"update_id":"1_10","price_type":2,"price":0,"value":5,"next_value":5,"max_level":10},{"update_id":"2_10","price_type":2,"price":0,"value":50,"next_value":50,"max_level":10}]}],"achieveInfo":[],"finish_num":0,"n_thew":1886,"n_refresh_time":null,"server_time":1427421365,"time_num":5,"session_key":"c7df517ac23615191605a2bf22dba739"}}

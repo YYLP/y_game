@@ -1,0 +1,515 @@
+[Mon Apr 13 14:32:24 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:56:48 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 16:23:37 2015] [error_log] [client 192.168.18.20] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 16:48:01 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 16:49:15 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 16:50:31 2015] [error_log] [client 192.168.18.20] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 18:05:42 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 18:23:33 2015] [error_log] [client 192.168.18.55] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:18 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:20 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:22 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:24 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:25 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:27 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:28 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:30 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:32 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:34 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:35 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:38:37 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:38:37 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:39:29 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:32 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:36 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:39 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:42 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:46 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:49 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:53 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:56 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:39:59 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:03 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:07 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:20 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:24 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:28 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:38 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:45 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:48 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:53 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:40:59 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:03 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:05 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:41:07 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:07 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:09 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 14:41:11 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\BaseModel.class.php(145): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\GameAction.class.php(121): BaseModel::update(Array, Array)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): GameAction->exeStartGame()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:13 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:18 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:21 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:42 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:46 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:41:56 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:43:30 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:43:34 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:43:41 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:44:09 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:44:12 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:45:05 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:45:15 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:46:46 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:46:51 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+
+#0 E:\php_project\y_game\libs\common\database\ExtPDO.class.php(28): PDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#1 E:\php_project\y_game\libs\common\database\Database.class.php(101): ExtPDO->__construct('mysql:dbname=y_...', 'twkj', 'twkj110', Array)
+#2 E:\php_project\y_game\libs\common\database\Database.class.php(46): Database::initializeInstance()
+#3 E:\php_project\y_game\libs\model\api\AuthModel.class.php(85): Database::getPdo()
+#4 E:\php_project\y_game\libs\action\api\AuthAction.class.php(150): AuthModel::getUserID('??????q311697', '9100666222', NULL)
+#5 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): AuthAction->exeUserLogin()
+#6 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#7 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#8 {main}
+[Mon Apr 13 14:47:28 2015] [error_log] [client 192.168.18.21] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 10:27:13 2015] [error_log] [client 192.168.18.20] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Mon Apr 13 10:28:20 2015] [error_log] [client 192.168.18.20] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.

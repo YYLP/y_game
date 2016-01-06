@@ -1,0 +1,64 @@
+[Fri Mar 20 09:51:29 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 09:52:29 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 09:54:06 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: syntax error, unexpected '===' (T_IS_IDENTICAL) file->E:\php_project\y_game\libs\config\Constants.class.php line->197
+[Fri Mar 20 09:54:08 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: syntax error, unexpected '===' (T_IS_IDENTICAL) file->E:\php_project\y_game\libs\config\Constants.class.php line->197
+[Fri Mar 20 09:55:29 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: syntax error, unexpected '===' (T_IS_IDENTICAL) file->E:\php_project\y_game\libs\config\Constants.class.php line->197
+[Fri Mar 20 09:55:47 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: syntax error, unexpected '===' (T_IS_IDENTICAL) file->E:\php_project\y_game\libs\config\Constants.class.php line->197
+[Fri Mar 20 09:56:21 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: syntax error, unexpected '===' (T_IS_IDENTICAL) file->E:\php_project\y_game\libs\config\Constants.class.php line->197
+[Fri Mar 20 10:01:30 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Undefined class constant 'RESURE_HP' file->E:\php_project\y_game\libs\action\api\CharacterAction.class.php line->871
+[Fri Mar 20 10:12:48 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:14:02 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:18:15 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:18:39 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:18:52 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:19:06 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:19:24 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:19:38 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:39:26 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 10:40:56 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:34:12 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:42:25 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:44:08 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:46:50 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:48:48 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:51:47 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:57:03 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 13:58:37 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 14:14:17 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 14:16:41 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 14:41:59 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 14:42:51 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 15:05:59 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 15:59:56 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:02:11 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:02:16 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:05:40 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:09:07 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:09:58 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:10:38 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:13:55 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:14:24 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:15:16 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:37:51 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 16:41:36 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:06:11 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:07:43 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:10:16 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:32:25 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:41:15 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:44:26 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Cannot redeclare RankModel::getRank() file->E:\php_project\y_game\libs\model\api\RankModel.class.php line->60
+[Fri Mar 20 17:44:33 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Cannot redeclare RankModel::getRank() file->E:\php_project\y_game\libs\model\api\RankModel.class.php line->60
+[Fri Mar 20 17:45:22 2015] [error_log] [client 192.168.18.17] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:52:20 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Cannot redeclare RankModel::getRank() file->E:\php_project\y_game\libs\model\api\RankModel.class.php line->60
+[Fri Mar 20 17:52:29 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 17:52:33 2015] [error_log] [client 192.168.18.41] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Cannot redeclare RankModel::getRank() file->E:\php_project\y_game\libs\model\api\RankModel.class.php line->60
+[Fri Mar 20 17:59:39 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\exception\PhpErrorException.class.php-> Fatal: Cannot redeclare RankModel::getRank() file->E:\php_project\y_game\libs\model\api\RankModel.class.php line->60
+[Fri Mar 20 18:01:38 2015] [error_log] [client 192.168.18.31] E:\php_project\y_game\libs\request\ApiStarter.class.php-> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause'
+#0 E:\php_project\y_game\libs\model\api\RankModel.class.php(69): PDOStatement->execute()
+#1 E:\php_project\y_game\libs\action\api\RankAction.class.php(52): RankModel::getUserRank('309')
+#2 E:\php_project\y_game\libs\request\RequestStarter.class.php(244): RankAction->exeGetRank()
+#3 E:\php_project\y_game\libs\request\ApiStarter.class.php(61): RequestStarter->startRequest()
+#4 E:\php_project\y_game\api.php(18): ApiStarter->execute()
+#5 {main}
+[Fri Mar 20 18:27:04 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.
+[Fri Mar 20 18:28:48 2015] [error_log] [client 192.168.18.91] E:\php_project\y_game\libs\action\BaseAction.class.php-> json_last_error: Syntax error.

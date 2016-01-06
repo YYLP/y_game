@@ -1,0 +1,5 @@
+general_id,name,unlock_star,unlock_type,unlock_price,buy_type,buy_price,active_price_type,active_price,start_time,end_time
+1,ÌÆÉ®,0,1,0,2,0,0,0,1426176000,1428854400
+2,ËïÎò¿Õ,12,1,0,2,60,2,60,1426176000,1428854400
+3,Öí°Ë½ä,36,1,0,2,100,2,100,1426176000,1428854400
+4,É³Îò¾»,72,1,0,2,150,2,150,1426176000,1428854400

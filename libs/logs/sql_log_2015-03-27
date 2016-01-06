@@ -1,0 +1,41 @@
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_coin = ?,s_checkpoint_info = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_task_info = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_achievement_info = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_thew = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT  if(n_user_id=:user_id,n_friend_id,n_user_id)n_id
+                               FROM friend_list 
+                               WHERE (n_user_id=:user_id ) OR (n_friend_id=:user_id)
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_general_info = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_battle = ? WHERE n_id = ?
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT s_general_info FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT n_coin,n_diamond,n_soul FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT n_coin,n_diamond,n_soul FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT n_coin,n_diamond,n_soul FROM user_info where n_id = :uid 
+[Fri Mar 27 09:53:55 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT n_coin,n_diamond,n_soul FROM user_info where n_id = :uid 
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_coin = ?,s_checkpoint_info = ? WHERE n_id = ?
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_task_info = ? WHERE n_id = ?
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_achievement_info = ? WHERE n_id = ?
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_thew = ? WHERE n_id = ?
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_general_info = ? WHERE n_id = ?
+[Fri Mar 27 09:55:15 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_battle = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_coin = ?,s_checkpoint_info = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_task_info = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_achievement_info = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_thew = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> SELECT * FROM user_info where n_id = :uid
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET s_general_info = ? WHERE n_id = ?
+[Fri Mar 27 09:56:05 2015] [sql_log] [client 192.168.18.31] E:\php_project\y_game\libs\common\database\ExtPDO.class.php-> UPDATE `user_info` SET n_battle = ? WHERE n_id = ?
